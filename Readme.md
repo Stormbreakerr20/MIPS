@@ -13,7 +13,7 @@ Welcome to the CS214-MIPS GitHub repository! This repository contains comprehens
 
 1. **Clone the Repository:** To access the content, clone this repository to your local machine using the following command:
 
-   git clone https://github.com/saurbh264/cs214-mips.git
+   git clone https:https://github.com/Stormbreakerr20/MIPS.git
 
 2. **Navigate the Content:**
    - Explore the `labs` directory for solutions to individual lab assignments.
